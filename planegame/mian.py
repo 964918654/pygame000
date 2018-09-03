@@ -68,5 +68,5 @@ def main():
         #程序暂时休眠
         time.sleep(0.002)
 
-if __name__ =='__main__':
-    main()
+# if __name__ =='__main__':
+main()

@@ -117,3 +117,6 @@ def game_is_over(gc,chess):
     if max([hori,verti,slash,backslash]) == 5:
         gc.running = False
 
+def move(screen,gc):
+
+
